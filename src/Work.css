@@ -1,0 +1,21 @@
+.logo {
+    height: 400px;
+}
+.title {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px;
+}
+.service {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.footer a {
+    margin: 20px;
+    color:white;
+    font-size: 20px;
+}
+.footer a:hover {
+    color: #00acee;
+}
